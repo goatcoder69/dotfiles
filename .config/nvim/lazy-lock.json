@@ -1,6 +1,7 @@
 {
-  "coc.nvim": { "branch": "release", "commit": "e159d0b26277c579552fd7e171c2bf1712f0f00e" },
-  "lazy.nvim": { "branch": "main", "commit": "3f13f080434ac942b150679223d54f5ca91e0d52" },
-  "nvim-treesitter": { "branch": "master", "commit": "3ef8d25df2d8eca6f15a6889cb2bc9d4c6101096" },
+  "coc.nvim": { "branch": "release", "commit": "f1ffb8d9b336ec6fe2ea0bd68ffeff5b77150e43" },
+  "lazy.nvim": { "branch": "main", "commit": "8f19915175395680808de529e4220da8dafc0759" },
+  "nvim-treesitter": { "branch": "master", "commit": "30de5e7e9486fb1b1b8c2a1e71052b13f94f1cb0" },
+  "rose-pine": { "branch": "main", "commit": "b6fe88c3282cf9f117a3e836d761c2d78d02f417" },
   "vim-crystal": { "branch": "master", "commit": "dc21188ec8c2ee77bb81dffca02e1a29d87cfd9f" }
 }
